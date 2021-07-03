@@ -62,6 +62,7 @@ class CosmeticPage(BasePage):
 
     def choose_fav_product_in_parfum(self,product):
         try:
+            self.driver.get(Variables.base_url)
             self.cosmetic_tab.click()
             self.parfum_tab.click()
             self.search_box.input_text(product)

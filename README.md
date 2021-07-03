@@ -23,9 +23,10 @@ This repo is created to show subjects below:
 When every instalation is done you use command below for execution the test.
 * --alluredir variable is the path the results of the test will be stored for allure framework
 * --html variable is the path the results of the test will be stored for python html report
+* --browser variable is for browser choose (chrome or firefox)
 
  ```sh
-    $ pytest --alluredir="./allure_results" --html=./results/report.html 
+    $ pytest --alluredir="./allure_results" --html=./results/report.html --browser=firefox
  ```
 To create allure test report you should execute command below:
 
