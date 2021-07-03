@@ -1,4 +1,5 @@
-ythonSeleniumExample
+# PythonSeleniumExample
+
 This repo is created to show subjects below:
 
 * **Selenium** library usage with Python.
