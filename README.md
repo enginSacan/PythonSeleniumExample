@@ -16,7 +16,7 @@ This repo is created to show subjects below:
 2. Install **[Pytest]** to your pc via pip.
 3. Install **[Allure]** to your pc.
 4. Install **[pytest-html-reporter]** to your pc.
-5. Install **[Pytest HTML]** to your pc.
+5. Install **[pytest-html]** to your pc.
 
 ## Usage
 When every instalation is done you use command below for execution the test.
