@@ -9,12 +9,14 @@ This repo is created to show subjects below:
 [Pytest]: https://docs.pytest.org/en/6.2.x/getting-started.html
 [Allure]: https://docs.qameta.io/allure/
 [pytest-html-reporter]: https://github.com/prashanth-sams/pytest-html-reporter
+[pytest-html]: https://pypi.org/project/pytest-html/
 ## How It Works
 
 1. Install **[Pyhton]** to your pc.(Python 3.9.0)
 2. Install **[Pytest]** to your pc via pip.
 3. Install **[Allure]** to your pc.
 4. Install **[pytest-html-reporter]** to your pc.
+5. Install **[Pytest HTML]** to your pc.
 
 ## Usage
 When every instalation is done you use command below for execution the test.
