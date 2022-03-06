@@ -33,3 +33,23 @@ To create allure test report you should execute command below:
  ```sh
     $ allure serve <path of the allure results folder>  
  ```
+## Test Cases
+### Task-1
+* Navigate to https://www.n11.com/
+* Log in with facebook
+* Verify successful login
+### Task-2
+* Navigate to https://www.n11.com/
+* Navigate to Perfume & Deodorant under the Cosmetic & Personal Care tab. (Do not
+use URL navigation)(Kozmetik & Kişisel Bakım/Parfüm & Deodorant)
+* Search for ‘Lacoste’ in Brand filter
+* Select ‘Lacoste’
+* Click 7th product on the search result page
+* Add product to the ‘Favorites’ (Favorilerim)
+* Navigate to Favorites (Favorilerim)
+* Verify the product title is the same as with the product details page
+### Task-3
+* Navigate to https://www.n11.com/
+* Write all the links at the footer to the text file (About us, help, etc)
+* Click Brands (Markalar) at the footer
+* Verify the footer links with the text file
